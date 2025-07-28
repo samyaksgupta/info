@@ -1,0 +1,12 @@
+{
+    "name": "Samyak Sanjiv Gupta",
+    "email": "samyaksanjiv@gmail.com",
+    "phone": "+91 xxxxxxxxxx",
+    "linkedin": "https://www.linkedin.com/in/samyak-gupta-33625a245",
+    "education": {
+      "school": "Bennett University (Times Group)",
+      "status": "B.Tech in Computer Science and Engineering (3rd Year)"
+    },
+    "interests": ["AI/ML", "Robotics", "Web Development", "Flutter"],
+    "skills": ["Python", "Java", "C++", "Dart", "Flutter"]
+  }
